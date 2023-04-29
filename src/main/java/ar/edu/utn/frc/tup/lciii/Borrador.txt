@@ -1,0 +1,7 @@
+Atajos:
+
+para identar el codigo es:
+ctl + alt + l
+
+para comentar lo seleccionado:
+ctl + /
